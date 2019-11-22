@@ -1,6 +1,6 @@
 # Discount Calculator
 
-Purpose of this application is to find the net payable amount on a given bill by validating the items on several conditions.
+Purpose of this application is to find the net payable amount on a given bill by validating the items and user on several conditions.
 
 The following discounts may apply:
 
